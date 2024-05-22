@@ -9,6 +9,6 @@ print("⚙️ Hook is running... received body:", body)
 # You can store data in the current thread,
 # so it will be available in the next stages
 aw.set_data("hook_data", body)
-
+print(body["reciepient"])
 # You can send a response back to the client after doing some processing
 ah.send_json({"message": "A message from the hook!"})
