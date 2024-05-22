@@ -1,0 +1,36 @@
+{
+  "workspace": {
+    "id": null,
+    "name": "Untitled Workspace",
+    "theme": null,
+    "logo_url": null,
+    "brand_name": null,
+    "main_color": null,
+    "font_color": null,
+    "font_family": null,
+    "sidebar": []
+  },
+  "visualization": [],
+  "kanban": {
+    "access_control": {
+      "is_public": false,
+      "required_roles": []
+    }
+  },
+  "home": {
+    "access_control": {
+      "is_public": true,
+      "required_roles": []
+    }
+  },
+  "jobs": [],
+  "hooks": [],
+  "forms": [],
+  "scripts": [],
+  "iterators": [],
+  "conditions": [],
+  "signup_policy": {
+    "email_patterns": []
+  },
+  "version": "7.0"
+}
