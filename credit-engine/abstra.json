@@ -24,7 +24,21 @@
     }
   },
   "jobs": [],
-  "hooks": [],
+  "hooks": [
+    {
+      "id": "67ae1cf6-e451-4876-884c-29a66c02b8d9",
+      "file": "sendemail_py.py",
+      "path": "sendemail-py",
+      "title": "sendEmail.py",
+      "enabled": false,
+      "workflow_position": [
+        0.0,
+        0.0
+      ],
+      "is_initial": true,
+      "transitions": []
+    }
+  ],
   "forms": [],
   "scripts": [],
   "iterators": [],
